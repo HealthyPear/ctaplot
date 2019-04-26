@@ -1,9 +1,6 @@
 import matplotlib.pyplot as plt
 import os
-from matplotlib.patches import Ellipse
 import numpy as np
-
-
 
 
 camera_types = ['LST', 'Nectar', 'Flash', 'SCT', 'ASTRI', 'DC', 'GCT']

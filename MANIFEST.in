@@ -1,0 +1,3 @@
+recursive-include share/*
+recursive-include share/simu_mc/*
+include share/simu_mc/gamma_20deg_0deg_cta-prod3-LaPalma_run_header.json
